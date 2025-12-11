@@ -1,0 +1,8 @@
+{
+  "name": "github-profile-trophy-secured",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@vercel/edge": "^1.1.1"
+  }
+}
